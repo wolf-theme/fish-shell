@@ -5,6 +5,7 @@ Theme based in [eclm](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/
 
 ### Install
 Use to install: [Fundle](https://github.com/tuvistavie/fundle)
+
 ``` fundle plugin 'wolf-theme/fish-shell' ```
 
 ### Team
