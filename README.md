@@ -4,6 +4,7 @@ Theme based in [eclm](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/
 <img src="http://i.imgur.com/1ZjM4j5.png" style="text-align: center;">
 
 ### Install
+<<<<<<< HEAD
 ``` curl -L https://raw.githubusercontent.com/wolf-theme/fish-shell/master/scripts/install | fish ```
 
 ### Team
